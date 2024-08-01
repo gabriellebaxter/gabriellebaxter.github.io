@@ -1,5 +1,5 @@
 # Gabrielle Baxter
 
-# Educaation
+# Education
 
 # Work Experience
