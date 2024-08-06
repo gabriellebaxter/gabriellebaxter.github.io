@@ -3,7 +3,7 @@ Research Fellow at the Satsuma Lab, Centre for Medical Image Computing, Universi
 
 [Publications @ Google Scholar](https://scholar.google.co.uk/citations?user=dlPW7kIAAAAJ&hl=en)
 
-Skills: Python, Medical Imaging, Computer Vision, Machine Learning, Deep Learning, Clinical statistics
+Skills: Python, Medical Imaging, Healthcare Data Analysis, Computer Vision, Machine Learning, Deep Learning, Clinical Statistics
 
 # Education
 
