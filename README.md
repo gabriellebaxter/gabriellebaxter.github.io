@@ -12,7 +12,7 @@ Skills: Python, Medical Imaging, Healthcare Data Analysis, Computer Vision, Mach
 
 # Work Experience
 ### Post-doctoral Research Fellow @ University College London (2022 - Present)
-- Developed deep learning-based image segmentation and analysis pipelines on high performance computing clusters for a lung cancer screening cohort of 13,000 patients, reducing analysis time per patient by 75%. Designed tests to validate results and ensure scalability of image processing techniques.
+- Developed deep learning-based image segmentation and analysis pipelines on high performance computing clusters for a lung cancer screening cohort of 13,000 patients, reducing analysis time per patient by 70%. Designed tests to validate results and ensure scalability of image processing techniques.
 - Predicted worsening of pulmonary disease using bespoke biomarkers with 10% higher accuracy than gold standard methods.
 - Supervised graduate and undergraduate research projects and dissertations, resulting in multiple master's and PhD program acceptances and conference abstracts.
 - Presented findings at international clinical conferences, communicating technical methodology and results to a diverse and multidisciplinary audience.
