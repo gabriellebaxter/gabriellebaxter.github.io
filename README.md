@@ -11,7 +11,11 @@ Skills: Python, R, Medical Imaging, Healthcare Data Analysis, Data Visualisation
 - MPhys, Physics, University of Manchster 2012 - 2016
 
 # Work Experience
-### Post-doctoral Research Fellow @ University College London (2022 - Present)
+### Post-doctoral Research Fellow @ Department of Radiology, NYU Langone Health (2025 - Present)
+- Optimised diffusion MRI protocols to assess time-dependent diffusion of muscle
+- 
+
+### Post-doctoral Research Fellow @ Department of Computer Science, University College London (2022 - 2024)
 - Developed deep learning-based image segmentation and analysis pipelines on high performance computing clusters for a lung cancer screening cohort of 13,000 patients, reducing analysis time per patient by 70%. Designed tests to validate results and ensure scalability of image processing techniques.
 - Predicted worsening of pulmonary disease using bespoke biomarkers with 10% higher accuracy than gold standard methods.
 - Supervised graduate and undergraduate research projects and dissertations, resulting in multiple master's and PhD program acceptances and conference abstracts.
